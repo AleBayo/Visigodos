@@ -12,4 +12,4 @@ Referencia
 
 [National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
 
-<img src="https://historia.nationalgeographic.com.es/medio/2019/12/12/el-final-de-don-rodrigo-la-derrota-visigoda_7472f644_1280x720.jpg">
+<img src="https://github.com/AleBayo/Visigodos/blob/main/img/caballeros.jpg">
